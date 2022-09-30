@@ -1,5 +1,5 @@
 # Data-Structure
-## 자료구조 공부
+## 자바로 하는 자료구조 공부
 
 ### Hello
 
